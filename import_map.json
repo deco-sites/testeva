@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/testeva/": "./",
+
     "$store/": "./",
     "apps/": "https://denopkg.com/deco-cx/apps@0.9.0/",
     "deco/": "https://denopkg.com/deco-cx/deco@1.36.19/",
